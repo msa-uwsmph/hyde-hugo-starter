@@ -1,4 +1,18 @@
 ---
 label: Events & Activities
 hide_body: true
-fields: []
+fields:
+- name: socal
+  type: text
+  config:
+    required: false
+  label: SoCal
+  description: SoCal is a calendar system that students can use to see upcoming events.
+    This can be synced with any other online calendar systems (ie. Google, Apple,
+    etc.)
+- name: class_photos
+  type: text
+  config:
+    required: false
+  label: Class Photos
+  description: View photos of past & current students at UWSMPH.
