@@ -4,7 +4,7 @@ title: Student Organizations
 date: 2013-12-28T00:00:00.000+00:00
 
 ---
-Allergy and Immunology Interest Group (AIIG)
+Allergy and Immunology Interest Group (AIIG)l
 
 Allied United for Health
 
