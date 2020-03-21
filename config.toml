@@ -1,7 +1,7 @@
 baseURL = "https://uwsmphmedstudents-hyde.netlify.com/"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "UWSMPH Students"
 [params]
 disqusShortname = ""
 googleAnalytics = ""
