@@ -16,5 +16,3 @@ fields:
     required: false
   label: Class Photos
   description: View photos of past & current students at UWSMPH.
-pages:
-- content/posts/Events & Activities.md

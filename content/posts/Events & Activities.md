@@ -1,5 +1,0 @@
-+++
-class_photos = ""
-socal = ""
-
-+++
