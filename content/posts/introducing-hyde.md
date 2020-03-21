@@ -4,21 +4,44 @@ title: Student Organizations
 date: 2013-12-28T00:00:00.000+00:00
 
 ---
+Allergy and Immunology Interest Group (AIIG)
 
-Hyde adds the following:
+Allied United for Health
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/spf13/hyde#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/spf13/hyde#themes), available via `<body>` classes
+American Medical Association Medical Student Section
 
-[Head to the readme](https://github.com/spf13/hyde#readme) to learn more.
+Anesthesiology Interest Group (AIG)
 
-### Browser support
+Asian Pacific American Medical Student Association (APAMSA)
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+Bamford House Interhouse Council (Bamforth IHC)
 
-### Download
+Basketball Interest Group
 
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/spf13/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
+Biomedical Informatics Interest Group (BIIG)
 
-Thanks!
+Cardiology Interest Group (CIG)
+
+Catholic Medical Association Students Section
+
+Christian Medical Association (CMA)
+
+Coda Blue
+
+Dermatology Interest Group (DIG)
+
+Doctors Ought To Care (DOC)
+
+Emergency Medicine Interest Group (EMIG) / Emergency Department Ambassador Program
+
+Families and Nontraditional Students
+
+Family Medicine Interest Group (FMIG), UW-Madison Chapter
+
+Future Physicians Futbol Club (FPFC), UWSMPH
+
+Genetic Medicine Interest Group
+
+Gold Humanism Honor Society (GHHS)
+
+Golf Interest Group
